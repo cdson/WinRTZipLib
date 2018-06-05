@@ -1,0 +1,17 @@
+C:\Github\Anees\WinRTZipLib\WinRTZipLib\WinRTZip\bin\Debug\WinRTZip.dll
+C:\Github\Anees\WinRTZipLib\WinRTZipLib\WinRTZip\bin\Debug\WinRTZip.pdb
+C:\Github\Anees\WinRTZipLib\WinRTZipLib\WinRTZip\bin\Debug\WinRTZip.pri
+C:\Github\Anees\WinRTZipLib\WinRTZipLib\WinRTZip\obj\Debug\WinRTZip.csproj.CoreCompileInputs.cache
+C:\Github\Anees\WinRTZipLib\WinRTZipLib\WinRTZip\obj\Debug\WinRTZip.dll
+C:\Github\Anees\WinRTZipLib\WinRTZipLib\WinRTZip\obj\Debug\WinRTZip.pdb
+C:\Github\Anees\WinRTZipLib\WinRTZipLib\WinRTZip\obj\Debug\priconfig.xml
+C:\Github\Anees\WinRTZipLib\WinRTZipLib\WinRTZip\obj\Debug\priconfig.xml.intermediate
+C:\Github\Anees\WinRTZipLib\WinRTZipLib\WinRTZip\obj\Debug\layout.resfiles
+C:\Github\Anees\WinRTZipLib\WinRTZipLib\WinRTZip\obj\Debug\layout.resfiles.intermediate
+C:\Github\Anees\WinRTZipLib\WinRTZipLib\WinRTZip\obj\Debug\resources.resfiles
+C:\Github\Anees\WinRTZipLib\WinRTZipLib\WinRTZip\obj\Debug\resources.resfiles.intermediate
+C:\Github\Anees\WinRTZipLib\WinRTZipLib\WinRTZip\obj\Debug\pri.resfiles
+C:\Github\Anees\WinRTZipLib\WinRTZipLib\WinRTZip\obj\Debug\pri.resfiles.intermediate
+C:\Github\Anees\WinRTZipLib\WinRTZipLib\WinRTZip\obj\Debug\qualifiers.txt
+C:\Github\Anees\WinRTZipLib\WinRTZipLib\WinRTZip\obj\Debug\qualifiers.txt.intermediate
+C:\Github\Anees\WinRTZipLib\WinRTZipLib\WinRTZip\obj\Debug\MultipleQualifiersPerDimensionFound.txt
